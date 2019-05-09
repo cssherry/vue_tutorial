@@ -1,0 +1,22 @@
+{
+  "name": "vue_tutorial",
+  "version": "1.0.0",
+  "description": "Try out vue framework",
+  "main": "index.html",
+  "scripts": {
+    "test": "mocha test/**/*spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssherry/vue_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cssherry/vue_tutorial/issues"
+  },
+  "homepage": "https://github.com/cssherry/vue_tutorial#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
