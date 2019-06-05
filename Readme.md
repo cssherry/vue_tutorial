@@ -42,6 +42,16 @@ Following [official tutorial](https://vuejs.org/v2/guide/)
     - E2E Testing (end-to-end testing)
         - Cypress
         - Nightwatch
+- User Tracking:
+  - [Vue Analytics](https://www.npmjs.com/package/vue-analytics): 22 watching, 1,304 stars, 100 forks, 20 issues
+    - also provides error tracking
+    - https://medium.com/dailyjs/tips-tricks-for-vue-analytics-87a9d2838915
+  - [Vue Multiananalytics](https://github.com/Glovo/vue-multianalytics): 21 watch, 160 star, 42 fork, 21 issues - track across multiple platforms, if want to not just use GA
+  - [Vue Analytics](https://github.com/ScreamZ/vue-analytics): 2 watching, 192 stars, 28 forks, 6 issues
+  - [Just Google Analytics](https://medium.com/once-upon-a-site/tracking-vuejs-spa-user-behaviour-with-google-analytics-37660e7a5790)
+- Error Tracking:
+  - [Sentry](https://sentry.io/for/vue/)
+  - [Vue Analytics](https://www.npmjs.com/package/vue-analytics)
 
 ## Running Project
 
