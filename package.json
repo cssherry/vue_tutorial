@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/cssherry/vue_tutorial#readme",
   "dependencies": {
-    "vue": "^2.6.10"
+    "vue": "^3.0.0"
   }
 }
